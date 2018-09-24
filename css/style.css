@@ -19,7 +19,7 @@ img {
 /* banners for pics*/
 .tags {
     display: inline-block;
-    color: #EDF5E1;
+    color: #fff;
     width: 100%;
     text-align: center;
     padding: 10px;
@@ -28,7 +28,7 @@ img {
 }
 
 .tags:hover {
-    color: #8EE4AF;
+    color: #F05F40;
     text-decoration: none;
 }
 
